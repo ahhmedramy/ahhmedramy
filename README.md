@@ -14,9 +14,9 @@ Welcome! I'm **Ahmed Ramy**, a passionate engineer blending **Cloud, Cybersecuri
   - AI + LLMs for defensive security
   - Kubernetes (CKA, CKAD, CKS), Azure DevOps, and cloud infra
 - 🎓 Active learner on:
-  - Joker Diploma in Web Security
+  - Malware Analysis
   - Generative AI & LLM Engineering
-  - KodeKloud labs for DevSecOps and Kubernetes
+  - KodeKloud labs for DevSecOps and Kubernetes 
 
 ---
 
