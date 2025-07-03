@@ -1,6 +1,6 @@
 # Ahmed Ramy
 
-## Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering
+## 🧠 Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering
 
 Welcome! I'm **Ahmed Ramy**, a passionate engineer blending **Cloud, Cybersecurity, DevSecOps, AI, and Offensive Security** to build secure, scalable infrastructure and smarter defensive systems.
 
