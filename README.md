@@ -53,7 +53,8 @@ Welcome! I'm **Ahmed Ramy**, a passionate engineer blending **Cloud, Cybersecuri
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahhmedramy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahhmedramy@gmail.com)
-
+## Email : ahhmedramy@gmail.com
+## Linkedin : https://www.linkedin.com/in/ahhmedramy/
 ---
 
 ⚡ *“Be invisible, think like an attacker, build like a defender.”*  
