@@ -11,7 +11,7 @@
 ###
 
 <h2 align="left">
-### 🧭 About Me</h2>
+ 🧭 About Me</h2>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<p align="left">## Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/</p>
+<p align="left"> Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/</p>
 
 ###
 
@@ -107,7 +107,7 @@
 ###
 
 <p align="left">
-### 🔬 Labs & Projects (Coming Soon)<br><br>- 🧪 Advanced Malware Labs (x64 PE, evasion, shellcode analysis)<br>- 🔐 Kubernetes Security Playground<br>- 🤖 AI + DevSecOps Pipeline Builder (LLM-enhanced)<br>- 🛠️ Azure Infrastructure Blueprints (IaC + Security)</p>
+ 🔬 Labs & Projects (Coming Soon)<br><br>- 🧪 Advanced Malware Labs (x64 PE, evasion, shellcode analysis)<br>- 🔐 Kubernetes Security Playground<br>- 🤖 AI + DevSecOps Pipeline Builder (LLM-enhanced)<br>- 🛠️ Azure Infrastructure Blueprints (IaC + Security)</p>
 
 ###
 
