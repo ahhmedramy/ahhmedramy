@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=765900&width=435&lines=Cloud++%26+DevOps+Engineer+;DevSecOps+%7C+Generative+AI+;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=10000&pause=1&color=C30707&center=true&vCenter=true&width=1000&height=90&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Generative+AI;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)
 
 ###
 
@@ -111,7 +111,7 @@
 
 ###
 
-<p align="left">https://github.com/ahhmedramy/Ai.git</p>
+
 
 ###
 
