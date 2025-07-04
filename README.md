@@ -98,7 +98,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahhmedramy/ahhmedramy/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
