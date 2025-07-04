@@ -81,13 +81,13 @@
   <a href="https://www.linkedin.com/in/ahhmedramy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="<a href="mailto:ahhmedramy@gmail.com"></a>" target="_blank">
+  <a href="<a href="mailto:ahhmedramy@gmail.com"> a>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://tryhackme.com/p/ahhmedramy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=Red&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
   </a>
-  <a href="<a href="https://discord.com/users/ahhmedramy">Add me on Discord</a>" target="_blank">
+  <a href="<a href="https://discord.com/users/ahhmedramy"" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
