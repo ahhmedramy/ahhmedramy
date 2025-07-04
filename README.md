@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">## 🧠 Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering<br><br>Welcome! I'm **Ahmed Ramy**, a passionate engineer blending **Cloud, Cybersecurity, DevSecOps, AI, and Offensive Security** to build secure, scalable infrastructure and smarter defensive systems.<br><br></h3>
+<h3 align="left">## 🧠 Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering<br><br>Welcome! I'm **Ahmed Ramy**, a passionate engineer blending **Cloud, Cybersecurity, DevSecOps, AI, and Offensive Security** to build secure, scalable infrastructure and smarter defensive systems.<br><br>---</h3>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=10000&pause=1&color=C30707&center=true&vCenter=true&width=1000&height=90&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Generative+AI;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)
+<p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=765900&width=435&lines=Cloud++%26+DevOps+Engineer+;DevSecOps+%7C+Generative+AI+;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)</p>
 
 ###
 
