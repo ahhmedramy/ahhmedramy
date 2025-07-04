@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<p align="left">- 🎯 Goal: Become an elite infrastructure security engineer by mastering **malware analysis, Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>  - Malware reverse engineering from an attacker's mindset<br>  - AI + LLMs for defensive security<br>  - Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>  - Malware Analysis<br>  - Generative AI & LLM Engineering<br>  - KodeKloud labs for DevSecOps and Kubernetes <br>- adding Generative AI in Everything in My Work<br><br>---</p>
+<p align="left">- 🎯 Goal: Become an elite infrastructure security engineer by mastering **malware analysis, Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>  - Malware reverse engineering from an attacker's mindset<br>  - AI + LLMs for defensive security<br>  - Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>  - Malware Analysis<br>  - Generative AI & LLM Engineering<br>  - KodeKloud labs for DevSecOps and Kubernetes <br>- adding Generative AI in Everything in My Work<br><br></p>
 
 ###
 
@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/ahhmedramy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="<a href="mailto:ahhmedramy@gmail.com">Send me an Email</a>" target="_blank">
+  <a href="<a href="mailto:ahhmedramy@gmail.com"></a>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://tryhackme.com/p/ahhmedramy" target="_blank">
