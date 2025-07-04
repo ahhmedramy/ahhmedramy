@@ -6,7 +6,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=10000&pause=1&color=C3BA00&center=true&width=600&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Generative+AI;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=10000&pause=1&color=C3BA00&center=true&vCenter=true&width=1000&height=100&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Generative+AI;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)
 
 ###
 
