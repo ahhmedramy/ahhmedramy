@@ -94,7 +94,7 @@
 
 ###
 
-<p align="left"> Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/</p>
+<p align="left"> Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/<br>TryHackme : https://tryhackme.com/p/ahhmedramy<br>Discord : https://discord.com/users/ahhmedramy</p>
 
 ###
 
