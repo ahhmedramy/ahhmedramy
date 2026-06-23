@@ -1,139 +1,123 @@
-<h1 align="center">Hey 👋What's Up?<br>I'm Ahmed Ramy</h1>
+<h1 data-importer="text" align="center">Hey 👋What's Up?<br>I'm Ahmed Ramy</h1>
 
 ###
 
-<h3 align="left"> 🧠 Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering<br><br>Welcome! I'm Ahmed Ramy, a passionate engineer blending Cloud, Cybersecurity, DevSecOps, AI, and Offensive Security to build secure, scalable infrastructure and smarter defensive systems.<br><br></h3>
+<h1 data-importer="text" align="center">🧠 Cybersecurity | AI-Driven DevOps & Cloud Security | Penetration Testing | DevSecOps | Generative AI | Terraform & LLM Engineering<br><br>Welcome! I'm Ahmed Ramy, a passionate engineer blending Cloud, Cybersecurity, DevSecOps, AI, and Offensive Security to build secure, scalable infrastructure and smarter defensive systems.</h1>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=10000&pause=1&color=C30707&center=true&vCenter=true&width=1000&height=90&lines=Cloud+%26+DevOps+Engineer;DevSecOps+%7C+Generative+AI;Malware+Analysis+%26+Web+Security)](https://git.io/typing-svg)
+<p data-importer="text" align="left">🧭 About Me</p>
 
 ###
 
-<h2 align="left">
- 🧭 About Me</h2>
+<p data-importer="text" align="left">- 🎯 Goal: Become an elite infrastructure security engineer by mastering ** Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>- AI + LLMs for defensive security<br>- Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>- penetration testing & SOC</p>
 
 ###
 
-<br clear="both">
-
-<p align="left">- 🎯 Goal: Become an elite infrastructure security engineer by mastering **malware analysis, Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>  - Malware reverse engineering from an attacker's mindset<br>  - AI + LLMs for defensive security<br>  - Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>  - Malware Analysis<br>  - Generative AI & LLM Engineering<br>  - KodeKloud labs for DevSecOps and Kubernetes <br>- adding Generative AI in Everything in My Work<br><br></p>
+<p data-importer="text" align="left">🛠️ Technical Arsenal</p>
 
 ###
 
-<p align="left">🛠️ Technical Arsenal</p>
-
-###
-<h3 align="center">🛠️ My Tech Stack</h3>
-
-<!-- Web Development -->
-<div align="center" style="margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5" style="margin-right:10px;" />
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="60" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="60" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="vagrant logo"  />
 </div>
 
-<!-- Cloud Providers -->
-<div align="center" style="margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" alt="Azure" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" alt="GCP" style="margin-right:10px;" />
-</div>
+###
 
-<!-- DevOps & Infrastructure -->
-<div align="center" style="margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" alt="Terraform" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" alt="Ansible" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VSCode" style="margin-right:10px;" />
-</div>
-
-<!-- Operating Systems & Shell -->
-<div align="center" style="margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" alt="Debian" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="36" alt="RedHat" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" alt="Apache" style="margin-right:10px;" />
-</div>
-
-<!-- AI / ML / Data Science -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="60" alt="Anaconda" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" alt="TensorFlow" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="60" alt="PyTorch" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" style="margin-right:10px;" />
-</div>
-
+<p data-importer="text" align="left">🌐 Professional Network</p>
 
 ###
 
-
-<h2 align="left">🌐 Professional Network</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/ahhmedramy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="<a href="mailto:ahhmedramy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://discord.com/users/ahhmedramy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://tryhackme.com/p/ahhmedramy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=Red&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-  <a href="<a href="https://discord.com/users/ahhmedramy"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="ahhmedramy@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<p align="left"> Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/<br>TryHackme : https://tryhackme.com/p/ahhmedramy<br>Discord : https://discord.com/users/ahhmedramy</p>
+<p data-importer="text" align="left">Email : ahhmedramy@gmail.com<br>Linked in : https://www.linkedin.com/in/ahhmedramy/<br>TryHackme : https://tryhackme.com/p/ahhmedramy<br>Discord : https://discord.com/users/ahhmedramy</p>
 
 ###
 
-
-
-###
-
-<h2 align="left">🚀 Projects</h2>
-
-###
-
-<p align="left">
- 🔬 Labs & Projects (Coming Soon)<br><br>- 🧪 Advanced Malware Labs (x64 PE, evasion, shellcode analysis)<br>- 🔐 Kubernetes Security Playground<br>- 🤖 AI + DevSecOps Pipeline Builder (LLM-enhanced)<br>- 🛠️ Azure Infrastructure Blueprints (IaC + Security)</p>
-
-###
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahhmedramy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=highcontrast&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahhmedramy&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahhmedramy&radius=16&theme=high-contrast&area=false&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahhmedramy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="50" alt="languages graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ahhmedramy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ahhmedramy/ahhmedramy/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<h1 align="center">⚡ “In the Art of Invisibility lies the true power: attack silently, defend intelligently.”</h1>
-
-###
-
-<h3 align="center">Global Network</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ahhmedramy/count.svg?"  />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahhmedramy/ahhmedramy/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahhmedramy/ahhmedramy/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahhmedramy/ahhmedramy/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
