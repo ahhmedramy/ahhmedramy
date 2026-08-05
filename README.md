@@ -21,7 +21,7 @@
 <p data-importer="text" align="left">🧭 About Me</p>
 
 ###
-<p data-importer="text" align="left">- 🎯 Goal: Become an elite infrastructure security engineer by mastering ** Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>- AI + LLMs for defensive security<br>- Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>- penetration testing & SOC</p>
+<p data-importer="text" align="left">- 🎯 Goal: Become an DevSecOps engineer by mastering ** Kubernetes security (CKS), cloud automation, and AI integration**<br>- 🛡 Currently diving deep into:<br>- AI + LLMs for defensive security<br>- Kubernetes (CKA, CKAD, CKS), Azure DevOps, and Web Security<br>- 🎓 Active learner on:<br>- penetration testing & SOC</p>
 
 ###
 
